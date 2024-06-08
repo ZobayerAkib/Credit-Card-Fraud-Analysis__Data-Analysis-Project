@@ -66,6 +66,10 @@ In this analysis, we evaluate the performance of various machine learning algori
   
 ![roc_rdf](https://github.com/ZobayerAkib/Credit-Card-Fraud-Analysis__Data-Analysis-Project/assets/66842328/58374bec-f738-4901-a8d6-69a8aba10b6c)
 
+- **GaussianNB**
+  
+![roc_nb](https://github.com/ZobayerAkib/Credit-Card-Fraud-Analysis__Data-Analysis-Project/assets/66842328/7bbc7bc2-1bf5-4f98-9010-f23d3a0d3a0d)
+
 - **LogisticRegression**
   
 ![roc_log](https://github.com/ZobayerAkib/Credit-Card-Fraud-Analysis__Data-Analysis-Project/assets/66842328/bff5eed9-bbdb-4643-ab30-8bad918f7d47)
@@ -77,10 +81,6 @@ In this analysis, we evaluate the performance of various machine learning algori
 - **GradientBoostingClassifier**
   
 ![roc_gradientboost](https://github.com/ZobayerAkib/Credit-Card-Fraud-Analysis__Data-Analysis-Project/assets/66842328/4a99913f-e45d-40fd-bfe9-355403a67af0)
-
-- **GaussianNB **
-  
-![roc_nb](https://github.com/ZobayerAkib/Credit-Card-Fraud-Analysis__Data-Analysis-Project/assets/66842328/7bbc7bc2-1bf5-4f98-9010-f23d3a0d3a0d)
 
 - **KNeighborsClassifier**
   
